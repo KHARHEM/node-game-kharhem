@@ -1,0 +1,24 @@
+{
+  "name": "exemple_node_docker",
+  "version": "1.0.0",
+  "description": "node_express_docker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch src/index.js"
+  },
+  "keywords": [],
+  "author": "Kharhem",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "morgan": "^1.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KHARHEM/node-game-kharhem.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KHARHEM/node-game-kharhem/issues"
+  },
+  "homepage": "https://github.com/KHARHEM/node-game-kharhem#readme"
+}
